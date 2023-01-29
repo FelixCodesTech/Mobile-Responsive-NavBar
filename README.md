@@ -8,6 +8,4 @@ This is pretty much the first and the most basic mobile-responsive Navigation Ba
 <img width="526" alt="Bildschirmfoto 2023-01-29 um 13 11 35" src="https://user-images.githubusercontent.com/66774630/215325686-2dfcf303-94b2-4fed-b718-949c021bc50e.png">
 
 <h6>What a cool Animation 👍</h6>
-<video scr="https://i.imgur.com/8O7oNSC.mp4" type=”video/webm” controls>
-<video src="https://i.imgur.com/8O7oNSC.mp4" controls="controls" style="max-width: 730px;">lol</video>
-what is this bruh
+![Bildschirmaufnahme 2023-01-29 um 13 16 38](https://user-images.githubusercontent.com/66774630/215326486-1eabcd00-9ac1-4171-9102-90b7a374ce99.gif)
