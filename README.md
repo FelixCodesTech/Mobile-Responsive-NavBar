@@ -9,5 +9,4 @@ This is pretty much the first and the most basic mobile-responsive Navigation Ba
 
 <h6>What a cool Animation 👍</h6>
 <video scr="https://i.imgur.com/8O7oNSC.mp4" type=”video/webm” controls>
-<video src="https://i.imgur.com/8O7oNSC.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://i.imgur.com/8O7oNSC.mp4" controls="controls" style="max-width: 730px;">lol</video>
